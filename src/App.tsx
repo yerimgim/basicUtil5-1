@@ -1,7 +1,7 @@
-import Scroll from "./components/Scroll";
+import BMI from "./components/BMI";
 
 const App = () => {
-  return <Scroll />;
+  return <BMI />;
 };
 
 export default App;
